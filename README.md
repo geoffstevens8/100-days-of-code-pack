@@ -2,7 +2,7 @@
 
 # 100 Days of Code Pack
 
-The 100 Days of Code pack includes Visual Studio Code extensions that will help you. 
+The 100 Days of Code pack includes Visual Studio Code extensions that will help you on your coding journey. 
 
 I love building tools that make developers happy. I actively contribute to [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode), one of the extensions included here.
 
