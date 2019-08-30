@@ -1,9 +1,9 @@
 {
-    "name": "extension-pack-name",
-    "displayName": "extension-pack-display-name",
-    "description": "extension-pack-description",
-    "version": "0.0.1",
-    "publisher": "publisher-name",
+    "name": "100-days-of-code-pack",
+    "displayName": "100 Days of Code Pack",
+    "description": "Ultimate 100 Days of Code toolbox",
+    "version": "1.0.0",
+    "publisher": "thegeoffstevens",
     "engines": {
         "vscode": "^1.35.0"
     },
@@ -12,14 +12,24 @@
     ],
     "repository": {
         "type": "git",
-        "url": "url-for-repo"
+        "url": "https://github.com/geoffstevens8/100-days-of-code-pack"
     },
-    "icon": "path-to-icon",
+    "icon": "icon.png",
     "galleryBanner": {
-        "color": "#000000",
+        "color": "#384357",
         "theme": "dark"
       },
+    "keywords": [
+        "100 days of code",
+        "challenge", 
+        "learn to code"
+    ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "softwaredotcom.swdc-vscode",
+        "cosminalco.pomodoro",
+        "burkeholland.simple-timer",
+        "Gruntfuggly.todo-tree",
+        "alefragnani.project-manager",
+        "yzhang.markdown-all-in-one"
     ]
 }
