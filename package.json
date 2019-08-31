@@ -2,7 +2,7 @@
     "name": "100-days-of-code-pack",
     "displayName": "100 Days of Code Pack",
     "description": "Ultimate 100 Days of Code toolbox",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "thegeoffstevens",
     "engines": {
         "vscode": "^1.35.0"
